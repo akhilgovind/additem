@@ -1,0 +1,537 @@
+
+/*css3 xpertcube 2015*/
+
+/* (320x480) iPhone (Original, 3G, 3GS) */
+@media only screen and (min-width: 320px) and (max-width: 980px) {
+/* insert styles here */
+.menu_listing_main ul li p {
+    font-size: 20px;
+}
+.menu_listing_main ul li {
+    width: 90%;
+	padding:5%;
+}
+.menu_listing_main ul li:nth-child(even) {
+    float: left !important;
+}
+.menu_heading {
+    width: 20%;
+}
+.index_about_cnt h2 {
+    font-size: 90px;
+}
+.service_inner_down {
+    width: 100%;
+    margin-left: 0;
+}
+.service_inner_top_left h1 span {
+    font-size: 80px;
+}
+.service_inner_top_left h1 {
+    font-size: 34px;
+    line-height: 50px;
+}
+.service_inner_top_right {
+    width: 90%;
+    margin: 0 auto;
+    float: none;
+}
+.service_inner_top_right ul li {
+    width: 36% !important;
+}
+.item_cover { 
+  overflow:hidden !important;
+  height:100%;
+  width:100%;
+  margin:0 auto;
+}
+.service_inner_down_inner {
+    width:100%;
+}
+.service_inner_down_inn_cntnt {
+    position: relative;
+	width: 90%;
+    margin: 0 auto;
+    bottom: 0;
+    left: 0;
+}
+.index_about_down {
+    padding: 30% 0;
+}
+.index_about_down_inner {
+    top:0!important;
+	    left: 0;
+}
+
+.background {
+    z-index:13;
+}
+.Header_fixed {
+    padding: 3% 5%;
+}
+.header {
+    z-index: 99;
+}
+.index_about_cnt h1 {
+    font-size: 26px;
+	text-align:center;
+	line-height: 50px;
+	padding-left: 0;
+}
+.index_about_cnt h1 span {
+    font-size: 75px;
+}
+.slider_text h2 {
+    font-size: 46px !important;
+    line-height: 50px !important;
+}
+.slider_text h1 {
+    font-size: 46px;
+    line-height: 70px;
+}
+.logo_left {
+    width:25%;
+}
+.index_about_cnt {
+    width: 100%;
+	padding: 15% 0 5%;
+}
+.index_about p {
+    text-align: justify;
+	padding: 5% 0;
+}
+.index_about {
+    width: 90%;
+}
+.index_about_down {
+    width: 100%;
+}
+.index_about_down3_inner {
+    position: relative !important;
+    width: 40% !important;
+    top: 0em !important;
+	right:0 !important;
+    margin:0 auto !important;
+}
+.index_about_down2_inner {
+    width: 50%;
+    top: 0em;
+    right: 1em;
+	display:none;
+}
+.contct_right {
+    width: 100%;
+    float: none;
+}
+.contct_left {
+    width: 20%;
+    float: none;
+	margin:0 auto;
+}
+.index_about_down_inner ul li {
+    margin: 0 16px 0 0;
+}
+.contct_right h1 {
+    font-size: 15px;
+	text-align: center;
+	    line-height: 25px;
+}
+.contct_right h1 span {
+    font-size: 26px !important;
+}
+.facility ul li {
+    width: 100%;
+}
+.footer_end_left {
+    width: 100%;
+	padding: 2% 0;
+	text-align:center;
+}
+.footer_end_right {
+    width:75%;
+    padding: 2% 0;
+}
+.footer_end {
+    padding: 10% 0 5%;
+}
+.footer_end_right2 {
+    margin: -7px 0 0 0;
+    width: 23%;
+	float:left;
+}
+.about_main_right {
+    width: 100%;
+}
+.about_main_left {
+    width: 100%;
+}
+.about_main {
+    padding: 20% 0 2%;
+}
+.about_main_left h1 span {
+    font-size: 80px!important;
+}
+.about_main_left h1 {
+    font-size: 35px!important;
+	    padding-left: 14%;
+}
+.inner_baner_inn {
+    padding: 20% 0 30%;
+}
+.inner_baner_inn h1 span {
+    font-size: 80px;
+}
+.inner_baner_inn h1 {
+    font-size: 30px;
+}
+.about_main_left p {
+    text-align: justify;
+}
+.gallery_main {
+    padding: 20% 0 5%;
+}
+.contact_left {
+    width: 90%;
+	z-index:990;
+	padding:5%;
+}
+.contact_right {
+    width: 100%;
+	position:relative;
+}
+.contact_content_main {
+    margin: 30px auto 0;
+    width: 90%;
+}
+}
+
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+/* insert styles here */
+ 
+.slider_text h2 {
+    font-size: 40px;
+}
+.index_about p {
+    font-size: 13px;
+    line-height: 26px;
+}
+.index_about_down_inner ul li {
+    margin: 0 14px 0 0;
+}
+.contct_right h1 {
+    font-size: 13px;
+}
+.index_about_down_inner {
+    top: 2em ;
+}
+.service_inner_top_right ul li {
+    width: 70%;
+}
+.facility_inner h1 {
+    font-size: 36px;
+    line-height: 36px;
+}
+.facility_inner h1 span {
+    font-size: 26px;
+}
+.footer_end_left p {
+    font-size: 15px;
+}
+.footer_end_right1 p {
+    font-size: 15px;
+}
+.service_inner_down_inn {
+    margin: 5% 0;
+}
+.index_about_cnt h2 {
+    font-size: 80px;
+}
+.service_inner_down_inn_cntnt_top h1 {
+    font-size: 18px;
+}
+}
+
+/* (320x480) Smartphone, Portrait */
+@media only screen and (width: 320px) and (orientation: portrait) {
+/* insert styles here */
+
+}
+
+/* (320x480) Smartphone, Landscape */
+@media only screen and (width: 480px) and (orientation: landscape) {
+
+
+}
+
+/* (480x800) Android */
+@media only screen and (min-width: 480px) and (max-width: 800px) {
+/* insert styles here */
+.logo_left {
+    width: 25%;
+}
+.service_inner_down_inner {
+    width: 100%;
+}
+.service_inner_top_right {
+    width: 30%;
+    float: right;
+}
+.index_about_cnt {
+    padding: 10% 0 0%;
+}
+.item_cover {
+    margin: 5% auto;
+}
+.footer_end_right {
+    margin: 0;
+    float: right;
+    width: auto;
+}
+.footer_end_left {
+    margin: 0;
+    float: left;
+    width: auto;
+}
+.facility ul li {
+    width: 50%;
+}
+.facility_inner h1 {
+    font-size: 40px;
+}
+.facility_inner h1 span {
+    font-size: 26px;
+}
+.footer_end_right2 {
+    margin: -14px 0 0 0;
+    width: 38%;
+}
+}
+/* (640x960) iPhone 4 & 4S */
+@media only screen and (max-width:700px) {
+/* insert styles here */
+
+
+}
+@media only screen and (min-width: 375px) and (max-width: 990px) {
+/* insert styles here */
+
+}
+
+/* (720x1280) Galaxy Nexus, WXGA */
+@media only screen and (min-width: 720px) and (max-width: 1280px) {
+/* insert styles here */
+
+}
+
+/* (720x1280) Galaxy Nexus, Landscape */
+@media only screen and (min-width: 720px) and (max-width: 1280px) and (orientation: landscape) {
+/* insert styles here */
+
+}
+
+/* (1024x768) iPad 1 & 2, XGA */
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+.contct_right h1 {
+    font-size: 13px;
+}
+.contct_right h1 span {
+    font-size: 30px !important ;
+}
+}
+
+/* (768x1024) iPad 1 & 2, Portrait */
+@media only screen and (min-width: 768px) and (max-width: 1024px) and (orientation: portrait) {
+/* insert styles here */
+
+}
+
+/* (1024x768) iPad 1 & 2, Landscape */
+@media only screen and (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+/* insert styles here */
+
+}
+
+/* (2048x1536) iPad 3 */
+@media only screen and (min-width: 1536px) and (max-width: 2048px) {
+/* insert styles here */
+
+}
+
+/* (1280x720) Galaxy Note 2, WXGA */
+@media only screen and (min-width: 768px) and (max-width: 1366px) {
+
+	
+}
+
+/* (1366x768) WXGA Display */
+@media screen and (max-width: 1400px) {
+
+/* insert styles here */
+}
+
+/* (1280x1024) SXGA Display */
+@media screen and (max-width: 1280px)and (max-width:1399px) {
+/* insert styles here */
+.slider_text h2 {
+    font-size: 130px;
+    line-height: 130px;
+}
+.index_about_down3_inner {
+    position: absolute;
+    width: 21%;
+    top: -2em;
+}
+.index_about_down2_inner {
+    width: 30%;
+    top: 2em;
+    right: 29em;
+}
+.contct_right h1 span {
+    font-size: 40px;
+}
+.service_inner_down_inn_cntnt h1 {
+    font-size: 44px;
+	line-height:70px;
+}
+.inner_baner_inn h2 {
+    font-size: 85px;
+    line-height: 50px;
+}
+.about_main_left h2 {
+    font-size:86px;
+}
+.inner_baner_inn h1 span {
+    font-size: 100px;
+}
+.about_main_left h1 span {
+    font-size: 120px;
+}
+.about_main_left h1 {
+    font-size: 50px;
+    line-height: 55px;
+}
+.about_main_left p {
+    font-size: 15px;
+    padding: 10% 0 3%;
+}
+.about_main_left a {
+    font-size: 20px;
+}
+}
+/* (1440x900) WXGA+ Display */
+@media screen and (max-width: 1440px) {
+/* insert styles here */
+
+}
+
+@media only screen and (min-width:1400px) and (max-width:1599px) {
+/* insert styles here */
+.contct_right h1 span {
+    font-size: 46px;
+}
+.service_inner_down_inn_cntnt h1 {
+    font-size: 50px;
+}
+}
+/* (1680x1050) WSXGA+ Display */
+@media screen and (max-width: 1580px) {
+/* insert styles here */
+
+}
+
+/* (1920x1080) Full HD Display */
+@media screen and (max-width: 1920px) {
+/* insert styles here */
+}
+@media screen and (max-width:2018px) {
+/* insert styles here */
+
+}
+
+/* (1600x900) HD+ Display */
+@media only screen and (min-width:1604px) and (max-width:1900px) {
+/* insert styles here */
+
+
+}
+
+@media only screen and (min-width: 1025px) and (max-width: 1270px) {
+/* insert styles here */
+ .slider_text h2 {
+    font-size: 100px;
+    line-height: 90px;
+}
+.index_about_cnt h1 {
+    font-size: 60px;
+    line-height: 60px;
+}
+.index_about_cnt h1 span {
+    font-size: 125px;
+}
+.index_about_down2_inner {
+    right: 24em;
+}
+.contct_right h1 {
+    font-size: 16px;
+}
+.contct_right h1 span {
+    font-size: 34px;
+}
+.index_about_down {
+    padding: 12% 0;
+}
+.service_inner_down_inn_cntnt h1 {
+    font-size: 34px;
+}
+.facility_inner h1 {
+    font-size: 40px;
+}
+.inner_baner_inn h1 span {
+    font-size: 90px;
+}
+.inner_baner_inn h1 {
+    font-size: 30px;
+    line-height: 50px;
+}
+.about_main_left p {
+    font-size: 12px;
+}
+.about_main_left h1 span {
+    font-size: 100px;
+}
+.about_main_left h1 {
+    font-size: 44px;
+    line-height: 44px;
+}
+.nav-fostrap li a {
+    font-size: 14px !important;
+}
+.inner_baner_inn {
+    position: relative;
+    width: 90%;
+    margin: 0 auto;
+    padding: 10% 0;
+}
+}
+
+@media only screen and (min-width: 600px) and (max-width: 1280px) {
+/* insert styles here */
+
+}
+
+@media only screen and (min-width:1801px) and (max-width:2000px) {
+/* insert styles here */
+
+}
+@media only screen and (min-width: 1601px) and (max-width: 1800px) {
+
+}
+@media only screen and (min-width:2001px) and (max-width:2200px) {
+/* insert styles here */
+
+}
+@media only screen and (min-width: 981px) {
+	
+
+
+}
